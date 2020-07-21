@@ -1,8 +1,8 @@
-<img align="center" src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/104593507_142039454124083_2344940293404185688_n.png?_nc_cat=109&_nc_sid=e3f864&_nc_ohc=K-ShvK2o0HwAX_oL-9t&_nc_ht=scontent-iad3-1.xx&oh=9e500f0c9fd55173c5fb84b0421fbf8b&oe=5F3E92EA">
+<img align="center" src="https://scontent.fsyq3-1.fna.fbcdn.net/v/t1.0-9/109737728_152877516373610_7430779000302013031_n.png?_nc_cat=106&_nc_sid=e3f864&_nc_ohc=uOoXPc7f4n0AX81f_v3&_nc_ht=scontent.fsyq3-1.fna&oh=f0e2be3e980da5fa45fbb5eeccefd672&oe=5F3CE488">
 
 # Hello, my name is *Kevin Blanco*, but you can call me: Mr White.
 
-**Technology Evangelist | I speak: Cloud Native, K8s, GCP, AI and Drupal.**
+**Technology Evangelist | I speak: Cloud Native, K8s, GCP, AI and Drupal.** <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="Twitter" style="vertical-align:top; margin:4px"> Certified Engineer
 
 [![Github](https://img.shields.io/github/followers/kevinblanco?style=social)](https://github.com/kevinblanco)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fkevinblancoz)](https://twitter.com/kevinblancoz)
