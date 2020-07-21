@@ -9,15 +9,15 @@
 
 ## About me
 
-⭐️  I build technology the right way to solve critical business problems. 
-⭐️  I love Cloud Computing, specially Google Cloud Platform and Kubernetes.
-⭐️  I travel around the world which helped me understanding how little I am and how humble I have to be. 
-⭐️  I've been writing software for the last 10 years in many languages and frameworks. 
-⭐️  Happily Married.
-⭐️  I'm a student pilot, flying a CS172P, TI-BHC.
-⭐️  Youtuber, Podcaster and Blogger.
-⭐️  I grind and brew my own coffee.
-⭐️  Filmmaker, currently writing my screenplay. 
+⭐️  I build technology the right way to solve critical business problems. <br />
+⭐️  I love Cloud Computing, specially Google Cloud Platform and Kubernetes. <br />
+⭐️  I travel around the world which helped me understanding how little I am and how humble I have to be. <br />
+⭐️  I've been writing software for the last 10 years in many languages and frameworks. <br />
+⭐️  Happily Married. <br />
+⭐️  I'm a student pilot, flying a CS172P, TI-BHC. <br />
+⭐️  Youtuber, Podcaster and Blogger. <br />
+⭐️  I grind and brew my own coffee. <br />
+⭐️  Filmmaker, currently writing my screenplay. <br />
 
 ### - Channel ⚡️
 
