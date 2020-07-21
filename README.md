@@ -2,7 +2,7 @@
 
 # Hello, my name is *Kevin Blanco*, but you can call me: Mr White.
 
-Technology Evangelist | I speak: Cloud Native, K8s, GCP, AI and Drupal.
+**Technology Evangelist | I speak: Cloud Native, K8s, GCP, AI and Drupal.**
 
 [![Github](https://img.shields.io/github/followers/kevinblanco?style=social)](https://github.com/kevinblanco)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fkevinblancoz)](https://twitter.com/kevinblancoz)
