@@ -49,7 +49,7 @@
 <a href="https://github.com/kevinblanco/">
   <img align="left" alt="Github" width="22px" src="https://img.icons8.com/fluent/48/000000/github.png"/>
 </a>
-<a href="mailto:damianrc.dev@gmail.com">
+<a href="mailto:info@kevinblanco.com">
   <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
 </a>
 <a href="https://www.facebook.com/MrWhitevsElPodcast">
