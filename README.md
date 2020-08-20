@@ -1,4 +1,4 @@
-<img align="center" src="https://scontent.fsyq3-1.fna.fbcdn.net/v/t1.0-9/109737728_152877516373610_7430779000302013031_n.png?_nc_cat=106&_nc_sid=e3f864&_nc_ohc=uOoXPc7f4n0AX81f_v3&_nc_ht=scontent.fsyq3-1.fna&oh=f0e2be3e980da5fa45fbb5eeccefd672&oe=5F3CE488">
+<img align="center" src="https://scontent.fsyq3-1.fna.fbcdn.net/v/t1.0-9/109737728_152877516373610_7430779000302013031_n.png?_nc_cat=106&_nc_sid=e3f864&_nc_ohc=4XzWsmXHbTQAX9FrBT0&_nc_ht=scontent.fsyq3-1.fna&oh=555b0c8bdd11f0284f9a6cc71ec17cc8&oe=5F647188">
 
 # Hello, my name is *Kevin Blanco*, but you can call me: Mr White.
 
