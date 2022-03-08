@@ -1,6 +1,6 @@
-<img align="center" src="https://scontent.fsyq3-1.fna.fbcdn.net/v/t1.0-9/109737728_152877516373610_7430779000302013031_n.png?_nc_cat=106&_nc_sid=e3f864&_nc_ohc=4XzWsmXHbTQAX9FrBT0&_nc_ht=scontent.fsyq3-1.fna&oh=555b0c8bdd11f0284f9a6cc71ec17cc8&oe=5F647188">
 
-# Hello, my name is *Kevin Blanco*, but you can call me: Mr White.
+
+# Hello, my name is *Kevin Blanco*, Tech Manager at Wondersauce, Google Cloud Certified Solutions Architect and Drupal Certified Specialist
 
 **Technology Evangelist | I speak: Cloud Native, K8s, GCP, AI and Drupal.** <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="Twitter" style="vertical-align:center; margin:4px"> Certified Engineer
 
@@ -12,9 +12,9 @@
 ⭐️  I build technology the right way to solve critical business problems. <br />
 ⭐️  I love Cloud Computing, specially Google Cloud Platform and Kubernetes. <br />
 ⭐️  I travel around the world which helped me understanding how little I am and how humble I have to be. <br />
-⭐️  I've been writing software for the last 10 years in many languages and frameworks. <br />
+⭐️  I've been writing software for the last 13 years in many languages and frameworks. <br />
 ⭐️  Happily Married. <br />
-⭐️  I'm a student pilot, flying a CS172P, TI-BHC. <br />
+⭐️  I love aviation and airplanes, I hold a private pilot licence (PPL) and i'm getting my Instrument Rating (IFR) <br />
 ⭐️  Youtuber, Podcaster and Blogger. <br />
 ⭐️  I grind and brew my own coffee. <br />
 ⭐️  Filmmaker, currently writing my screenplay. <br />
