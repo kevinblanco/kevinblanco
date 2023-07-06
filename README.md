@@ -1,6 +1,6 @@
 
 
-# Hello, my name is *Kevin Blanco*, Tech Director at Decimal Studios, Google Expert in Google Cloud, Certified Solutions Architect and Drupal Certified Specialist
+# Hello, my name is *Kevin Blanco*, Senior DevRel Advocate at Appaimth, Google Expert in Google Cloud, Certified Solutions Architect and Drupal Certified Specialist
 
 **Technology Evangelist | I speak: Cloud Native, K8s, GCP, AI and Drupal.** <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="Twitter" style="vertical-align:center; margin:4px"> Certified Engineer
 
