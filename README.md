@@ -1,6 +1,6 @@
 
 
-# Hello, my name is *Kevin Blanco*, Senior Developer Advocate at Asana & Keynote Speaker, Google Developer Expert 
+# Hello, my name is *Kevin Blanco*, Senior Developer Advocate & Keynote Speaker, Google Developer Expert 
 
 
 [![Github](https://img.shields.io/github/followers/kevinblanco?style=social)](https://github.com/kevinblanco)
